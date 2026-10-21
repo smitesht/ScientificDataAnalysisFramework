@@ -1,0 +1,5 @@
+add_library(StatisticsPluginLib SHARED StatisticsPlugin.cpp)
+
+target_include_directories(StatisticsPluginLib PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+
+target_link_libraries(StatisticsPluginLib PUBLIC DataLib MathCalcLib)

@@ -1,0 +1,81 @@
+# ==========================================
+# Compiled Object & Binary Files (Artifacts)
+# ==========================================
+*.o
+*.obj
+*.slo
+*.lo
+*.gch
+*.pch
+*.d
+*.ilk
+*.pdb
+*.dwo
+
+# Libraries and Executables
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.la
+*.lai
+*.exe
+*.out
+*.app
+
+# ==========================================
+# Build Directories (CMake, Make, Ninja, etc.)
+# ==========================================
+[Bb]uild/
+[Oo]ut/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+CMakeFiles/
+CMakeCache.txt
+CMakeWorkspace.txt
+CMakeUserPresets.json
+Makefile
+compile_commands.json
+.cache/
+
+# Dependency Managers
+vcpkg_installed/
+.clink/
+
+# ==========================================
+# VS Code & IDE Specific Files
+# ==========================================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Visual Studio / MSVC leftovers if used
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==========================================
+# Operating System & Temporary Files
+# ==========================================
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux / Text Editors
+*~
+*.swp
+*.log
+*.tmp
+*.bak
