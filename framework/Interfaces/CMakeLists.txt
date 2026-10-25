@@ -1,0 +1,3 @@
+add_library(SciFlowInterfacesLib INTERFACE)
+
+target_include_directories(SciFlowInterfacesLib INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
