@@ -1,11 +1,15 @@
-#include "StatisticsPlugin.h"
 #include <numeric>
+#include "StatisticsPlugin.h"
 
 using AnalysisResult = SciFlow::AnalysisResults::AnalysisResult;
 using ResultStatus = SciFlow::AnalysisResults::ResultStatus;
 
 namespace SciFlow::Plugins
 {
+    extern "C" std::shared_ptr<IAnalysisPlugin> createPlugin()
+    {
+        return std::make_shared<StatisticsPlugin>();
+    }
 
     SciFlow::AnalysisResults::AnalysisResult StatisticsPlugin::execute(SciFlow::Data::IDataLoader& dataLoader)
     {
