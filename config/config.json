@@ -1,0 +1,38 @@
+{
+    "pluginDirectory": "./plugins",
+    "plugins": [
+        {
+            "name": "Statistics",
+            "enabled": true,
+            "version": "1.0.0",
+            "inputDatasets": [
+                {
+                    "type": "csv",
+                    "path": "./datasets/sample.csv"
+                }
+            ]
+        },
+        {
+            "name": "Regression",
+            "enabled": true,
+            "version": "1.0.0",
+            "inputDatasets": [
+                {
+                    "type": "csv",
+                    "path": "./datasets/sample.csv"
+                },
+                {
+                    "type": "json",
+                    "path": "./datasets/sample.json"
+                }
+            ]
+        }
+    ],
+    "output": {
+        "directory": "./output",
+        "format": "json"
+    },
+    "logging": {
+        "level": "DEBUG"
+    }
+}
