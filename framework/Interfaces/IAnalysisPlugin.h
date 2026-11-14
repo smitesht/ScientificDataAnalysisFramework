@@ -3,7 +3,6 @@
 
 namespace SciFlow::Data
 {
-    class DataSet;
     class IDataLoader;
 }
 
@@ -21,6 +20,6 @@ namespace SciFlow::Interfaces
 
         virtual std::string name() = 0;
 
-        virtual SciFlow::AnalysisResults::AnalysisResult execute(SciFlow::Data::IDataLoader& dataset) = 0;
+        virtual SciFlow::AnalysisResults::AnalysisResult execute(std::shared_ptr<SciFlow::Data::IDataLoader> dataset) = 0;
     };
 }

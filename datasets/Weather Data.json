@@ -1,0 +1,2564 @@
+[
+  {
+    "MinTemp": 8,
+    "MaxTemp": 24.3,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 6.3
+  },
+  {
+    "MinTemp": 14,
+    "MaxTemp": 26.9,
+    "Rainfall": 3.6,
+    "Evaporation": 4.4,
+    "Sunshine": 9.7
+  },
+  {
+    "MinTemp": 13.7,
+    "MaxTemp": 23.4,
+    "Rainfall": 3.6,
+    "Evaporation": 5.8,
+    "Sunshine": 3.3
+  },
+  {
+    "MinTemp": 13.3,
+    "MaxTemp": 15.5,
+    "Rainfall": 39.8,
+    "Evaporation": 7.2,
+    "Sunshine": 9.1
+  },
+  {
+    "MinTemp": 7.6,
+    "MaxTemp": 16.1,
+    "Rainfall": 2.8,
+    "Evaporation": 5.6,
+    "Sunshine": 10.6
+  },
+  {
+    "MinTemp": 6.2,
+    "MaxTemp": 16.9,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": 6.1,
+    "MaxTemp": 18.2,
+    "Rainfall": 0.2,
+    "Evaporation": 4.2,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 8.3,
+    "MaxTemp": 17,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 4.6
+  },
+  {
+    "MinTemp": 8.8,
+    "MaxTemp": 19.5,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 4.1
+  },
+  {
+    "MinTemp": 8.4,
+    "MaxTemp": 22.8,
+    "Rainfall": 16.2,
+    "Evaporation": 5.4,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": 9.1,
+    "MaxTemp": 25.2,
+    "Rainfall": 0,
+    "Evaporation": 4.2,
+    "Sunshine": 11.9
+  },
+  {
+    "MinTemp": 8.5,
+    "MaxTemp": 27.3,
+    "Rainfall": 0.2,
+    "Evaporation": 7.2,
+    "Sunshine": 12.5
+  },
+  {
+    "MinTemp": 10.1,
+    "MaxTemp": 27.9,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 13
+  },
+  {
+    "MinTemp": 12.1,
+    "MaxTemp": 30.9,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 12.4
+  },
+  {
+    "MinTemp": 10.1,
+    "MaxTemp": 31.2,
+    "Rainfall": 0,
+    "Evaporation": 8.8,
+    "Sunshine": 13.1
+  },
+  {
+    "MinTemp": 12.4,
+    "MaxTemp": 32.1,
+    "Rainfall": 0,
+    "Evaporation": 8.4,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 13.8,
+    "MaxTemp": 31.2,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 11.7,
+    "MaxTemp": 30,
+    "Rainfall": 1.2,
+    "Evaporation": 7.2,
+    "Sunshine": 10.1
+  },
+  {
+    "MinTemp": 12.4,
+    "MaxTemp": 32.3,
+    "Rainfall": 0.6,
+    "Evaporation": 7.4,
+    "Sunshine": 13
+  },
+  {
+    "MinTemp": 15.6,
+    "MaxTemp": 33.4,
+    "Rainfall": 0,
+    "Evaporation": 8,
+    "Sunshine": 10.4
+  },
+  {
+    "MinTemp": 15.3,
+    "MaxTemp": 33.4,
+    "Rainfall": 0,
+    "Evaporation": 8.8,
+    "Sunshine": 9.5
+  },
+  {
+    "MinTemp": 16.4,
+    "MaxTemp": 19.4,
+    "Rainfall": 0.4,
+    "Evaporation": 9.2,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 12.8,
+    "MaxTemp": 18.5,
+    "Rainfall": 25.8,
+    "Evaporation": 2.8,
+    "Sunshine": 0.6
+  },
+  {
+    "MinTemp": 12,
+    "MaxTemp": 24.3,
+    "Rainfall": 0.4,
+    "Evaporation": 1.2,
+    "Sunshine": 7.5
+  },
+  {
+    "MinTemp": 15.4,
+    "MaxTemp": 28.4,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 15.6,
+    "MaxTemp": 26.9,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": 13.3,
+    "MaxTemp": 22.2,
+    "Rainfall": 0.2,
+    "Evaporation": 6.6,
+    "Sunshine": 2.3
+  },
+  {
+    "MinTemp": 12.9,
+    "MaxTemp": 28,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 10.7
+  },
+  {
+    "MinTemp": 15.1,
+    "MaxTemp": 24.3,
+    "Rainfall": 0,
+    "Evaporation": 7,
+    "Sunshine": 0.4
+  },
+  {
+    "MinTemp": 13.6,
+    "MaxTemp": 24.1,
+    "Rainfall": 0.4,
+    "Evaporation": 2.6,
+    "Sunshine": 0.5
+  },
+  {
+    "MinTemp": 15.1,
+    "MaxTemp": 20.4,
+    "Rainfall": 22.6,
+    "Evaporation": 2.4,
+    "Sunshine": 0.2
+  },
+  {
+    "MinTemp": 11.6,
+    "MaxTemp": 26.3,
+    "Rainfall": 4.2,
+    "Evaporation": 1.6,
+    "Sunshine": 12
+  },
+  {
+    "MinTemp": 16.6,
+    "MaxTemp": 24.2,
+    "Rainfall": 0.2,
+    "Evaporation": 6.6,
+    "Sunshine": 4.7
+  },
+  {
+    "MinTemp": 13.3,
+    "MaxTemp": 26.5,
+    "Rainfall": 6.6,
+    "Evaporation": 3.8,
+    "Sunshine": 11.8
+  },
+  {
+    "MinTemp": 14.5,
+    "MaxTemp": 21.8,
+    "Rainfall": 0,
+    "Evaporation": 8.4,
+    "Sunshine": 9.8
+  },
+  {
+    "MinTemp": 16.3,
+    "MaxTemp": 26.8,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 6.3
+  },
+  {
+    "MinTemp": 17.2,
+    "MaxTemp": 25.8,
+    "Rainfall": 0,
+    "Evaporation": 4.2,
+    "Sunshine": 8.8
+  },
+  {
+    "MinTemp": 16.5,
+    "MaxTemp": 28.2,
+    "Rainfall": 4,
+    "Evaporation": 4.2,
+    "Sunshine": 8.8
+  },
+  {
+    "MinTemp": 15,
+    "MaxTemp": 29.4,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 14.9,
+    "MaxTemp": 24.8,
+    "Rainfall": 0,
+    "Evaporation": 10.4,
+    "Sunshine": 10
+  },
+  {
+    "MinTemp": 11.8,
+    "MaxTemp": 18.5,
+    "Rainfall": 0.6,
+    "Evaporation": 4.8,
+    "Sunshine": 2.3
+  },
+  {
+    "MinTemp": 11.7,
+    "MaxTemp": 21.5,
+    "Rainfall": 0,
+    "Evaporation": 4.2,
+    "Sunshine": 7.3
+  },
+  {
+    "MinTemp": 9.6,
+    "MaxTemp": 20.3,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 3.6
+  },
+  {
+    "MinTemp": 8.9,
+    "MaxTemp": 27.1,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 12.7
+  },
+  {
+    "MinTemp": 10.1,
+    "MaxTemp": 29.9,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 8.8
+  },
+  {
+    "MinTemp": 15.5,
+    "MaxTemp": 21.1,
+    "Rainfall": 5.4,
+    "Evaporation": 6.4,
+    "Sunshine": 0.9
+  },
+  {
+    "MinTemp": 10.8,
+    "MaxTemp": 21.7,
+    "Rainfall": 1.4,
+    "Evaporation": 2.8,
+    "Sunshine": 10.6
+  },
+  {
+    "MinTemp": 7.5,
+    "MaxTemp": 20.9,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 8.7
+  },
+  {
+    "MinTemp": 12.8,
+    "MaxTemp": 21,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 0.8
+  },
+  {
+    "MinTemp": 12.6,
+    "MaxTemp": 23.1,
+    "Rainfall": 3.4,
+    "Evaporation": 1.6,
+    "Sunshine": 2.3
+  },
+  {
+    "MinTemp": 14.8,
+    "MaxTemp": 29.5,
+    "Rainfall": 6.4,
+    "Evaporation": 1.8,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 19.9,
+    "MaxTemp": 22,
+    "Rainfall": 11,
+    "Evaporation": 4.4,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": 9.2,
+    "MaxTemp": 20.4,
+    "Rainfall": 17.4,
+    "Evaporation": 7.8,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 12.4,
+    "MaxTemp": 24.4,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 12.1
+  },
+  {
+    "MinTemp": 11.3,
+    "MaxTemp": 21.7,
+    "Rainfall": 3.4,
+    "Evaporation": 8.2,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 9.8,
+    "MaxTemp": 26.3,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 13
+  },
+  {
+    "MinTemp": 14.3,
+    "MaxTemp": 26.7,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 7.1
+  },
+  {
+    "MinTemp": 15.1,
+    "MaxTemp": 28.3,
+    "Rainfall": 14.4,
+    "Evaporation": 8.8,
+    "Sunshine": 13.2
+  },
+  {
+    "MinTemp": 14.4,
+    "MaxTemp": 31.6,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 13.6
+  },
+  {
+    "MinTemp": 15.4,
+    "MaxTemp": 35,
+    "Rainfall": 0,
+    "Evaporation": 9.6,
+    "Sunshine": 13
+  },
+  {
+    "MinTemp": 13.8,
+    "MaxTemp": 33.5,
+    "Rainfall": 0,
+    "Evaporation": 11.4,
+    "Sunshine": 13.6
+  },
+  {
+    "MinTemp": 13.6,
+    "MaxTemp": 34.2,
+    "Rainfall": 0,
+    "Evaporation": 8.8,
+    "Sunshine": 12.8
+  },
+  {
+    "MinTemp": 14.3,
+    "MaxTemp": 35,
+    "Rainfall": 0,
+    "Evaporation": 7.6,
+    "Sunshine": 10.5
+  },
+  {
+    "MinTemp": 15.9,
+    "MaxTemp": 23.4,
+    "Rainfall": 0,
+    "Evaporation": 12.6,
+    "Sunshine": 2.2
+  },
+  {
+    "MinTemp": 16.7,
+    "MaxTemp": 25.3,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 12.5
+  },
+  {
+    "MinTemp": 12.1,
+    "MaxTemp": 27.5,
+    "Rainfall": 0,
+    "Evaporation": 7.4,
+    "Sunshine": 11.7
+  },
+  {
+    "MinTemp": 14.3,
+    "MaxTemp": 34.1,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 10.5
+  },
+  {
+    "MinTemp": 16.5,
+    "MaxTemp": 33.9,
+    "Rainfall": 0,
+    "Evaporation": 9,
+    "Sunshine": 12.6
+  },
+  {
+    "MinTemp": 16.5,
+    "MaxTemp": 30.3,
+    "Rainfall": 0,
+    "Evaporation": 10,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 17.5,
+    "MaxTemp": 29.9,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 8.8
+  },
+  {
+    "MinTemp": 14.7,
+    "MaxTemp": 34.2,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 12.8
+  },
+  {
+    "MinTemp": 17.5,
+    "MaxTemp": 35.8,
+    "Rainfall": 0,
+    "Evaporation": 9.4,
+    "Sunshine": 13.3
+  },
+  {
+    "MinTemp": 20.9,
+    "MaxTemp": 35.7,
+    "Rainfall": 0,
+    "Evaporation": 13.8,
+    "Sunshine": 6.9
+  },
+  {
+    "MinTemp": 17,
+    "MaxTemp": 33.8,
+    "Rainfall": 2,
+    "Evaporation": 9,
+    "Sunshine": 13.5
+  },
+  {
+    "MinTemp": 16,
+    "MaxTemp": 22.8,
+    "Rainfall": 0,
+    "Evaporation": 12.4,
+    "Sunshine": 6
+  },
+  {
+    "MinTemp": 15.4,
+    "MaxTemp": 33.8,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 17.9,
+    "MaxTemp": 33.2,
+    "Rainfall": 0,
+    "Evaporation": 10.4,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 15.2,
+    "MaxTemp": 25.1,
+    "Rainfall": 4.8,
+    "Evaporation": 6.4,
+    "Sunshine": 11.6
+  },
+  {
+    "MinTemp": 15.1,
+    "MaxTemp": 20.4,
+    "Rainfall": 0,
+    "Evaporation": 9.6,
+    "Sunshine": 0.1
+  },
+  {
+    "MinTemp": 15.3,
+    "MaxTemp": 19.6,
+    "Rainfall": 18.8,
+    "Evaporation": 5,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 17.2,
+    "MaxTemp": 24.7,
+    "Rainfall": 12.2,
+    "Evaporation": 1.4,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 15.9,
+    "MaxTemp": 19.9,
+    "Rainfall": 0.8,
+    "Evaporation": 5.6,
+    "Sunshine": 1.6
+  },
+  {
+    "MinTemp": 10,
+    "MaxTemp": 22.5,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 11.6
+  },
+  {
+    "MinTemp": 9.9,
+    "MaxTemp": 24.4,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 10.3,
+    "MaxTemp": 27.8,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": 15.4,
+    "MaxTemp": 25.7,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": 12.7,
+    "MaxTemp": 28.8,
+    "Rainfall": 0,
+    "Evaporation": 7.4,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": 13.2,
+    "MaxTemp": 31.3,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 11.6
+  },
+  {
+    "MinTemp": 15.3,
+    "MaxTemp": 33.2,
+    "Rainfall": 0,
+    "Evaporation": 9.4,
+    "Sunshine": 13.2
+  },
+  {
+    "MinTemp": 17.9,
+    "MaxTemp": 33.9,
+    "Rainfall": 0,
+    "Evaporation": 10.4,
+    "Sunshine": 11.8
+  },
+  {
+    "MinTemp": 18,
+    "MaxTemp": 34.9,
+    "Rainfall": 0,
+    "Evaporation": 9.2,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": 17.6,
+    "MaxTemp": 27.8,
+    "Rainfall": 5.2,
+    "Evaporation": 10.2,
+    "Sunshine": 3.6
+  },
+  {
+    "MinTemp": 16,
+    "MaxTemp": 23.8,
+    "Rainfall": 2.2,
+    "Evaporation": 5.4,
+    "Sunshine": 6.2
+  },
+  {
+    "MinTemp": 14.9,
+    "MaxTemp": 28.8,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 17.1,
+    "MaxTemp": 29.6,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": 18.2,
+    "MaxTemp": 22.6,
+    "Rainfall": 1.8,
+    "Evaporation": 8,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 16.8,
+    "MaxTemp": 22.8,
+    "Rainfall": 9,
+    "Evaporation": 2.8,
+    "Sunshine": 0.3
+  },
+  {
+    "MinTemp": 13.6,
+    "MaxTemp": 27.4,
+    "Rainfall": 1,
+    "Evaporation": 2.8,
+    "Sunshine": 8
+  },
+  {
+    "MinTemp": 14.5,
+    "MaxTemp": 24.2,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": 12.4,
+    "MaxTemp": 19.9,
+    "Rainfall": 16.2,
+    "Evaporation": 5.4,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 10.4,
+    "MaxTemp": 20.9,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": 9.1,
+    "MaxTemp": 23.1,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 9.6
+  },
+  {
+    "MinTemp": 8.9,
+    "MaxTemp": 26,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 10.7
+  },
+  {
+    "MinTemp": 14.5,
+    "MaxTemp": 24.2,
+    "Rainfall": 4.4,
+    "Evaporation": 6.6,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": 12.6,
+    "MaxTemp": 18.2,
+    "Rainfall": 11,
+    "Evaporation": 3.2,
+    "Sunshine": 0.4
+  },
+  {
+    "MinTemp": 8.6,
+    "MaxTemp": 24.2,
+    "Rainfall": 0.2,
+    "Evaporation": 2.8,
+    "Sunshine": 12.7
+  },
+  {
+    "MinTemp": 10.8,
+    "MaxTemp": 25.2,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 12.6
+  },
+  {
+    "MinTemp": 11.2,
+    "MaxTemp": 26.1,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 12.6
+  },
+  {
+    "MinTemp": 12.1,
+    "MaxTemp": 24.1,
+    "Rainfall": 0,
+    "Evaporation": 7.4,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 10.8,
+    "MaxTemp": 25.8,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 11.7
+  },
+  {
+    "MinTemp": 11.4,
+    "MaxTemp": 27.1,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 12.1
+  },
+  {
+    "MinTemp": 12,
+    "MaxTemp": 28.9,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": 16.3,
+    "MaxTemp": 24.8,
+    "Rainfall": 1.8,
+    "Evaporation": 7.8,
+    "Sunshine": 3.8
+  },
+  {
+    "MinTemp": 12.7,
+    "MaxTemp": 28.6,
+    "Rainfall": 6.6,
+    "Evaporation": 3.2,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": 12.7,
+    "MaxTemp": 25.1,
+    "Rainfall": 0,
+    "Evaporation": 7.8,
+    "Sunshine": 12.4
+  },
+  {
+    "MinTemp": 12,
+    "MaxTemp": 23.8,
+    "Rainfall": 0,
+    "Evaporation": 10.4,
+    "Sunshine": 12.4
+  },
+  {
+    "MinTemp": 11.5,
+    "MaxTemp": 25.9,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 13,
+    "MaxTemp": 28.2,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 11.6
+  },
+  {
+    "MinTemp": 11.7,
+    "MaxTemp": 27.6,
+    "Rainfall": 0,
+    "Evaporation": 7.8,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": 14.8,
+    "MaxTemp": 17.3,
+    "Rainfall": 0,
+    "Evaporation": 7.6,
+    "Sunshine": 0.8
+  },
+  {
+    "MinTemp": 7.7,
+    "MaxTemp": 18.4,
+    "Rainfall": 10.4,
+    "Evaporation": 5.2,
+    "Sunshine": 12
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 21.8,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 12.1
+  },
+  {
+    "MinTemp": 7.4,
+    "MaxTemp": 24.4,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 11.6
+  },
+  {
+    "MinTemp": 8.3,
+    "MaxTemp": 27.3,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 10.1
+  },
+  {
+    "MinTemp": 10.1,
+    "MaxTemp": 28.2,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 7.3
+  },
+  {
+    "MinTemp": 12,
+    "MaxTemp": 27.6,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 12.9,
+    "MaxTemp": 31.8,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 11.3
+  },
+  {
+    "MinTemp": 10.8,
+    "MaxTemp": 29.2,
+    "Rainfall": 0,
+    "Evaporation": 8.4,
+    "Sunshine": 7.5
+  },
+  {
+    "MinTemp": 9.5,
+    "MaxTemp": 27.4,
+    "Rainfall": 3,
+    "Evaporation": 4.8,
+    "Sunshine": 11.5
+  },
+  {
+    "MinTemp": 12.1,
+    "MaxTemp": 27.8,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 11.5
+  },
+  {
+    "MinTemp": 12.5,
+    "MaxTemp": 31.7,
+    "Rainfall": 0,
+    "Evaporation": 6.6,
+    "Sunshine": 11.2
+  },
+  {
+    "MinTemp": 13.9,
+    "MaxTemp": 34.7,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 8.5
+  },
+  {
+    "MinTemp": 13.3,
+    "MaxTemp": 31.7,
+    "Rainfall": 0.2,
+    "Evaporation": 7.8,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 13.2,
+    "MaxTemp": 33.1,
+    "Rainfall": 0,
+    "Evaporation": 8.6,
+    "Sunshine": 9.7
+  },
+  {
+    "MinTemp": 12.3,
+    "MaxTemp": 33.8,
+    "Rainfall": 0,
+    "Evaporation": 7.2,
+    "Sunshine": 11.3
+  },
+  {
+    "MinTemp": 13.8,
+    "MaxTemp": 35.2,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 11.2
+  },
+  {
+    "MinTemp": 11.3,
+    "MaxTemp": 32.3,
+    "Rainfall": 0,
+    "Evaporation": 9.4,
+    "Sunshine": 11.4
+  },
+  {
+    "MinTemp": 11.7,
+    "MaxTemp": 30.2,
+    "Rainfall": 0,
+    "Evaporation": 7.8,
+    "Sunshine": 11.2
+  },
+  {
+    "MinTemp": 12.5,
+    "MaxTemp": 29.9,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 10.7
+  },
+  {
+    "MinTemp": 15.1,
+    "MaxTemp": 26.2,
+    "Rainfall": 0,
+    "Evaporation": 9,
+    "Sunshine": 9.8
+  },
+  {
+    "MinTemp": 11.5,
+    "MaxTemp": 29.3,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 8
+  },
+  {
+    "MinTemp": 13,
+    "MaxTemp": 14.8,
+    "Rainfall": 0,
+    "Evaporation": 8.2,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 11.6,
+    "MaxTemp": 19.6,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 1.6
+  },
+  {
+    "MinTemp": 12.8,
+    "MaxTemp": 24.9,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 6.2
+  },
+  {
+    "MinTemp": 15.5,
+    "MaxTemp": 22.4,
+    "Rainfall": 0.6,
+    "Evaporation": 4.8,
+    "Sunshine": 1.9
+  },
+  {
+    "MinTemp": 13.1,
+    "MaxTemp": 17.4,
+    "Rainfall": 6.4,
+    "Evaporation": 2.8,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 12.6,
+    "MaxTemp": 20.2,
+    "Rainfall": 19.8,
+    "Evaporation": 2.6,
+    "Sunshine": 9.1
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 18.3,
+    "Rainfall": 0,
+    "Evaporation": 4.6,
+    "Sunshine": 9.6
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 18.2,
+    "Rainfall": 0,
+    "Evaporation": 3.6,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 7.1,
+    "MaxTemp": 18.5,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 10
+  },
+  {
+    "MinTemp": 4.2,
+    "MaxTemp": 18.9,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 9.6,
+    "MaxTemp": 18.8,
+    "Rainfall": 0,
+    "Evaporation": 6.4,
+    "Sunshine": 10
+  },
+  {
+    "MinTemp": 3.5,
+    "MaxTemp": 21.8,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 10.3
+  },
+  {
+    "MinTemp": 5.3,
+    "MaxTemp": 23.3,
+    "Rainfall": 0,
+    "Evaporation": 3.6,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 7,
+    "MaxTemp": 14.3,
+    "Rainfall": 2.6,
+    "Evaporation": 9.6,
+    "Sunshine": 9.7
+  },
+  {
+    "MinTemp": 0.4,
+    "MaxTemp": 18.9,
+    "Rainfall": 0,
+    "Evaporation": 4.8,
+    "Sunshine": 9.6
+  },
+  {
+    "MinTemp": 3.2,
+    "MaxTemp": 21.4,
+    "Rainfall": 0,
+    "Evaporation": 3.2,
+    "Sunshine": 10.6
+  },
+  {
+    "MinTemp": 5.9,
+    "MaxTemp": 21.8,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 8.1,
+    "MaxTemp": 20.5,
+    "Rainfall": 0,
+    "Evaporation": 3.8,
+    "Sunshine": 7.8
+  },
+  {
+    "MinTemp": 6.9,
+    "MaxTemp": 18.9,
+    "Rainfall": 0,
+    "Evaporation": 4.2,
+    "Sunshine": 4.1
+  },
+  {
+    "MinTemp": 5.6,
+    "MaxTemp": 19.5,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 6.8
+  },
+  {
+    "MinTemp": 7.2,
+    "MaxTemp": 22.9,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 9.5
+  },
+  {
+    "MinTemp": 7.1,
+    "MaxTemp": 23.4,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 6.1,
+    "MaxTemp": 24.1,
+    "Rainfall": 0,
+    "Evaporation": 4.6,
+    "Sunshine": 6.1
+  },
+  {
+    "MinTemp": 7.1,
+    "MaxTemp": 19.8,
+    "Rainfall": 2,
+    "Evaporation": 3.2,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": 5.6,
+    "MaxTemp": 18,
+    "Rainfall": 5.2,
+    "Evaporation": 3.8,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 5.4,
+    "MaxTemp": 20.7,
+    "Rainfall": 0,
+    "Evaporation": 3.2,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 6.3,
+    "MaxTemp": 19.3,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 10.6
+  },
+  {
+    "MinTemp": 5.3,
+    "MaxTemp": 21,
+    "Rainfall": 0,
+    "Evaporation": 4.6,
+    "Sunshine": 6.3
+  },
+  {
+    "MinTemp": 7.9,
+    "MaxTemp": 19.7,
+    "Rainfall": 0,
+    "Evaporation": 3.2,
+    "Sunshine": 8.3
+  },
+  {
+    "MinTemp": 8.4,
+    "MaxTemp": 16.1,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 4.9
+  },
+  {
+    "MinTemp": 8.1,
+    "MaxTemp": 18.7,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 7.1
+  },
+  {
+    "MinTemp": 2.4,
+    "MaxTemp": 20.6,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 10.1
+  },
+  {
+    "MinTemp": 5.6,
+    "MaxTemp": 18.9,
+    "Rainfall": 0,
+    "Evaporation": 3.8,
+    "Sunshine": 8
+  },
+  {
+    "MinTemp": 7.5,
+    "MaxTemp": 19,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 6.8
+  },
+  {
+    "MinTemp": 2.5,
+    "MaxTemp": 21.2,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 7.9
+  },
+  {
+    "MinTemp": 5,
+    "MaxTemp": 20.9,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": 3.8,
+    "MaxTemp": 21.7,
+    "Rainfall": 0.2,
+    "Evaporation": 2.8,
+    "Sunshine": 6.5
+  },
+  {
+    "MinTemp": 7.9,
+    "MaxTemp": 18.7,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 5.8
+  },
+  {
+    "MinTemp": 4.3,
+    "MaxTemp": 11.3,
+    "Rainfall": 7.2,
+    "Evaporation": 4.4,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": -2.1,
+    "MaxTemp": 13.8,
+    "Rainfall": 0.2,
+    "Evaporation": 1.8,
+    "Sunshine": 9.5
+  },
+  {
+    "MinTemp": -1.8,
+    "MaxTemp": 14.8,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 7
+  },
+  {
+    "MinTemp": 3.8,
+    "MaxTemp": 13.8,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 0.8
+  },
+  {
+    "MinTemp": 2.1,
+    "MaxTemp": 17.3,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 17.1,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": -0.9,
+    "MaxTemp": 16.7,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 0.4,
+    "MaxTemp": 19,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 8.3
+  },
+  {
+    "MinTemp": 7.5,
+    "MaxTemp": 16.8,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 3
+  },
+  {
+    "MinTemp": 8.3,
+    "MaxTemp": 17.6,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": -0.2,
+    "MaxTemp": 18.1,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": 0.1,
+    "MaxTemp": 21,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": 1.5,
+    "MaxTemp": 20.9,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 8.3,
+    "MaxTemp": 17.4,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 1.6
+  },
+  {
+    "MinTemp": 9.4,
+    "MaxTemp": 19.2,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": 1.3,
+    "MaxTemp": 19,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": 2.2,
+    "MaxTemp": 18.6,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": -0.4,
+    "MaxTemp": 17.9,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 8.7
+  },
+  {
+    "MinTemp": 4.5,
+    "MaxTemp": 16,
+    "Rainfall": 1.8,
+    "Evaporation": 3,
+    "Sunshine": 4.3
+  },
+  {
+    "MinTemp": 7.9,
+    "MaxTemp": 12.3,
+    "Rainfall": 1,
+    "Evaporation": 1.8,
+    "Sunshine": 1.7
+  },
+  {
+    "MinTemp": 4.3,
+    "MaxTemp": 14.1,
+    "Rainfall": 0.8,
+    "Evaporation": 1.6,
+    "Sunshine": 8.8
+  },
+  {
+    "MinTemp": -2.7,
+    "MaxTemp": 18.1,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 0.3,
+    "MaxTemp": 17,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 3.8,
+    "MaxTemp": 17.4,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 7.3
+  },
+  {
+    "MinTemp": 2.4,
+    "MaxTemp": 14.7,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": 1.2,
+    "MaxTemp": 14.8,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 6.7
+  },
+  {
+    "MinTemp": 1.2,
+    "MaxTemp": 14.5,
+    "Rainfall": 0,
+    "Evaporation": 1.2,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": -0.3,
+    "MaxTemp": 17.5,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 4.7,
+    "MaxTemp": 18.5,
+    "Rainfall": 3.8,
+    "Evaporation": 2,
+    "Sunshine": 5.1
+  },
+  {
+    "MinTemp": 4.9,
+    "MaxTemp": 18.1,
+    "Rainfall": 5.2,
+    "Evaporation": 1.2,
+    "Sunshine": 8.5
+  },
+  {
+    "MinTemp": 1.4,
+    "MaxTemp": 16.8,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": 2.2,
+    "MaxTemp": 17.5,
+    "Rainfall": 0.2,
+    "Evaporation": 1.2,
+    "Sunshine": 8.5
+  },
+  {
+    "MinTemp": -0.1,
+    "MaxTemp": 18,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": -0.9,
+    "MaxTemp": 18.5,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": 0.6,
+    "MaxTemp": 14,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 2.7
+  },
+  {
+    "MinTemp": 4.6,
+    "MaxTemp": 15.7,
+    "Rainfall": 0,
+    "Evaporation": 1,
+    "Sunshine": 0.6
+  },
+  {
+    "MinTemp": 9.8,
+    "MaxTemp": 14.4,
+    "Rainfall": 0.8,
+    "Evaporation": 0.6,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 10.6,
+    "MaxTemp": 15.1,
+    "Rainfall": 3.8,
+    "Evaporation": 0.2,
+    "Sunshine": 2.6
+  },
+  {
+    "MinTemp": 7.8,
+    "MaxTemp": 15.1,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 2.7
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 16.7,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": -0.2,
+    "MaxTemp": 15.5,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": 4.3,
+    "MaxTemp": 14.5,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 3
+  },
+  {
+    "MinTemp": 7.4,
+    "MaxTemp": 16.3,
+    "Rainfall": 0,
+    "Evaporation": 1.2,
+    "Sunshine": "NA"
+  },
+  {
+    "MinTemp": 8.6,
+    "MaxTemp": 13.7,
+    "Rainfall": 6.2,
+    "Evaporation": 2.2,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 10.2,
+    "MaxTemp": 15,
+    "Rainfall": 4.8,
+    "Evaporation": 0.2,
+    "Sunshine": 0.5
+  },
+  {
+    "MinTemp": 7.3,
+    "MaxTemp": 16.4,
+    "Rainfall": 0.2,
+    "Evaporation": 1.2,
+    "Sunshine": 8.5
+  },
+  {
+    "MinTemp": 8.7,
+    "MaxTemp": 13,
+    "Rainfall": 0.6,
+    "Evaporation": 3.2,
+    "Sunshine": 7.1
+  },
+  {
+    "MinTemp": 1,
+    "MaxTemp": 11.8,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 7.2
+  },
+  {
+    "MinTemp": 2.1,
+    "MaxTemp": 14.7,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": 6.4,
+    "MaxTemp": 16.9,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": 5.4,
+    "MaxTemp": 15.5,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 5.8
+  },
+  {
+    "MinTemp": 0.4,
+    "MaxTemp": 15.5,
+    "Rainfall": 0,
+    "Evaporation": 1,
+    "Sunshine": 4.7
+  },
+  {
+    "MinTemp": 4,
+    "MaxTemp": 15.9,
+    "Rainfall": 0,
+    "Evaporation": 0.6,
+    "Sunshine": 2
+  },
+  {
+    "MinTemp": 8.4,
+    "MaxTemp": 11.7,
+    "Rainfall": 4.8,
+    "Evaporation": 0.6,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 0.4,
+    "MaxTemp": 13.9,
+    "Rainfall": 0.6,
+    "Evaporation": 0.8,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": 4.2,
+    "MaxTemp": 14,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 7.6
+  },
+  {
+    "MinTemp": 0.9,
+    "MaxTemp": 12.9,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 6.8
+  },
+  {
+    "MinTemp": 0.8,
+    "MaxTemp": 13,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 4.1
+  },
+  {
+    "MinTemp": 4.3,
+    "MaxTemp": 12.6,
+    "Rainfall": 0,
+    "Evaporation": 2,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": 6.3,
+    "MaxTemp": 11.8,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 6.5
+  },
+  {
+    "MinTemp": 3.5,
+    "MaxTemp": 14.3,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": -1.5,
+    "MaxTemp": 14.8,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 8
+  },
+  {
+    "MinTemp": 1.2,
+    "MaxTemp": 16,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 6.1
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 15.4,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 6.4
+  },
+  {
+    "MinTemp": 5.3,
+    "MaxTemp": 11.7,
+    "Rainfall": 2,
+    "Evaporation": 3.6,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 6.6,
+    "MaxTemp": 13.1,
+    "Rainfall": 0.2,
+    "Evaporation": 2.8,
+    "Sunshine": 8.2
+  },
+  {
+    "MinTemp": -1.6,
+    "MaxTemp": 11.5,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": -3.1,
+    "MaxTemp": 12,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 3.9
+  },
+  {
+    "MinTemp": -0.1,
+    "MaxTemp": 14.2,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 7
+  },
+  {
+    "MinTemp": -0.6,
+    "MaxTemp": 14,
+    "Rainfall": 0,
+    "Evaporation": 1.2,
+    "Sunshine": 7.1
+  },
+  {
+    "MinTemp": 3,
+    "MaxTemp": 11.1,
+    "Rainfall": 0.8,
+    "Evaporation": 1.4,
+    "Sunshine": 0.2
+  },
+  {
+    "MinTemp": 2.9,
+    "MaxTemp": 9.5,
+    "Rainfall": 16.8,
+    "Evaporation": 1.4,
+    "Sunshine": 6.5
+  },
+  {
+    "MinTemp": -1.3,
+    "MaxTemp": 8.8,
+    "Rainfall": 0,
+    "Evaporation": 0.8,
+    "Sunshine": 2.8
+  },
+  {
+    "MinTemp": 1.8,
+    "MaxTemp": 8.7,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 1.2
+  },
+  {
+    "MinTemp": 2.9,
+    "MaxTemp": 8.4,
+    "Rainfall": 1.6,
+    "Evaporation": 1.4,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": -2.6,
+    "MaxTemp": 11.1,
+    "Rainfall": 0.2,
+    "Evaporation": 1.4,
+    "Sunshine": 6.5
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 11,
+    "Rainfall": 0,
+    "Evaporation": 1,
+    "Sunshine": 0.9
+  },
+  {
+    "MinTemp": 2.7,
+    "MaxTemp": 16.5,
+    "Rainfall": 0,
+    "Evaporation": 0.6,
+    "Sunshine": 8.9
+  },
+  {
+    "MinTemp": -1.7,
+    "MaxTemp": 13.6,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 5.2
+  },
+  {
+    "MinTemp": -0.9,
+    "MaxTemp": 12.8,
+    "Rainfall": 0.2,
+    "Evaporation": 2,
+    "Sunshine": 1.9
+  },
+  {
+    "MinTemp": -1.8,
+    "MaxTemp": 11.5,
+    "Rainfall": 0,
+    "Evaporation": 0.6,
+    "Sunshine": 4.7
+  },
+  {
+    "MinTemp": 1.3,
+    "MaxTemp": 10.6,
+    "Rainfall": 0,
+    "Evaporation": 0.8,
+    "Sunshine": 5.6
+  },
+  {
+    "MinTemp": 2.4,
+    "MaxTemp": 11.6,
+    "Rainfall": 1.2,
+    "Evaporation": 2.2,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": -1.1,
+    "MaxTemp": 11,
+    "Rainfall": 0.2,
+    "Evaporation": 1.8,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 2.3,
+    "MaxTemp": 11.6,
+    "Rainfall": 19.2,
+    "Evaporation": 1.8,
+    "Sunshine": 7.5
+  },
+  {
+    "MinTemp": -2.2,
+    "MaxTemp": 11.6,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 9.2
+  },
+  {
+    "MinTemp": -3.5,
+    "MaxTemp": 11.2,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 7.7
+  },
+  {
+    "MinTemp": -1,
+    "MaxTemp": 12.2,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": -2.1,
+    "MaxTemp": 12.9,
+    "Rainfall": 0,
+    "Evaporation": 1.2,
+    "Sunshine": 8.1
+  },
+  {
+    "MinTemp": -2,
+    "MaxTemp": 11.3,
+    "Rainfall": 0.2,
+    "Evaporation": 2.2,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": -2.3,
+    "MaxTemp": 9.7,
+    "Rainfall": 0,
+    "Evaporation": 1.4,
+    "Sunshine": 1.9
+  },
+  {
+    "MinTemp": -1.6,
+    "MaxTemp": 10.7,
+    "Rainfall": 1.4,
+    "Evaporation": 0.8,
+    "Sunshine": 9.1
+  },
+  {
+    "MinTemp": 0.8,
+    "MaxTemp": 12.2,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": -2.8,
+    "MaxTemp": 12.2,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 8.7
+  },
+  {
+    "MinTemp": -2.8,
+    "MaxTemp": 14.1,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 6.8
+  },
+  {
+    "MinTemp": 3,
+    "MaxTemp": 9.7,
+    "Rainfall": 1,
+    "Evaporation": 2.6,
+    "Sunshine": 0.7
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 11.5,
+    "Rainfall": 6.6,
+    "Evaporation": 2.2,
+    "Sunshine": 9.3
+  },
+  {
+    "MinTemp": 2.3,
+    "MaxTemp": 12.8,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 9.6
+  },
+  {
+    "MinTemp": -2,
+    "MaxTemp": 12.3,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 5.8
+  },
+  {
+    "MinTemp": -1.9,
+    "MaxTemp": 10.9,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 4.2
+  },
+  {
+    "MinTemp": 4.8,
+    "MaxTemp": 14.1,
+    "Rainfall": 4,
+    "Evaporation": 1.6,
+    "Sunshine": 8.3
+  },
+  {
+    "MinTemp": -0.6,
+    "MaxTemp": 11.1,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 5
+  },
+  {
+    "MinTemp": 3.1,
+    "MaxTemp": 12.5,
+    "Rainfall": 1.2,
+    "Evaporation": 1.4,
+    "Sunshine": 7.2
+  },
+  {
+    "MinTemp": -2.9,
+    "MaxTemp": 9.6,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 7.3
+  },
+  {
+    "MinTemp": -3.5,
+    "MaxTemp": 7.6,
+    "Rainfall": 0.4,
+    "Evaporation": 2.4,
+    "Sunshine": 4.7
+  },
+  {
+    "MinTemp": -0.3,
+    "MaxTemp": 9.3,
+    "Rainfall": 0.4,
+    "Evaporation": 1.4,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": 0.1,
+    "MaxTemp": 10.4,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 7.9
+  },
+  {
+    "MinTemp": 2.3,
+    "MaxTemp": 12.2,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 9.8
+  },
+  {
+    "MinTemp": 2.1,
+    "MaxTemp": 10.7,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": 4.6,
+    "MaxTemp": 14.7,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 3.7,
+    "MaxTemp": 14.2,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 10
+  },
+  {
+    "MinTemp": -1.3,
+    "MaxTemp": 11.6,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 10.4
+  },
+  {
+    "MinTemp": -3.4,
+    "MaxTemp": 12.5,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 6.8
+  },
+  {
+    "MinTemp": -5.3,
+    "MaxTemp": 13.1,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 7.9
+  },
+  {
+    "MinTemp": 0,
+    "MaxTemp": 14,
+    "Rainfall": 0,
+    "Evaporation": 2.4,
+    "Sunshine": 4.7
+  },
+  {
+    "MinTemp": 2.4,
+    "MaxTemp": 14.1,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 1.8
+  },
+  {
+    "MinTemp": -0.6,
+    "MaxTemp": 12.2,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 7
+  },
+  {
+    "MinTemp": 2.3,
+    "MaxTemp": 11.6,
+    "Rainfall": 0,
+    "Evaporation": 5.4,
+    "Sunshine": 9.5
+  },
+  {
+    "MinTemp": -3.7,
+    "MaxTemp": 14.4,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 10.4
+  },
+  {
+    "MinTemp": -0.9,
+    "MaxTemp": 14.2,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 7.8
+  },
+  {
+    "MinTemp": -1.5,
+    "MaxTemp": 17.3,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": -3.3,
+    "MaxTemp": 15.1,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": "NA"
+  },
+  {
+    "MinTemp": -0.1,
+    "MaxTemp": 14.7,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": -0.2,
+    "MaxTemp": 16.2,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 5.9
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 16.3,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 4.1
+  },
+  {
+    "MinTemp": 6.1,
+    "MaxTemp": 17.2,
+    "Rainfall": 4,
+    "Evaporation": 2.2,
+    "Sunshine": 2.4
+  },
+  {
+    "MinTemp": 4.1,
+    "MaxTemp": 14.8,
+    "Rainfall": 7.4,
+    "Evaporation": 2.6,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 0.1,
+    "MaxTemp": 16.7,
+    "Rainfall": 0,
+    "Evaporation": 3.8,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 3.2,
+    "MaxTemp": 12.1,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 3.9
+  },
+  {
+    "MinTemp": 5.4,
+    "MaxTemp": 11.3,
+    "Rainfall": 0.2,
+    "Evaporation": 2.2,
+    "Sunshine": 0.6
+  },
+  {
+    "MinTemp": 5.8,
+    "MaxTemp": 12.4,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 0
+  },
+  {
+    "MinTemp": 6.3,
+    "MaxTemp": 16.1,
+    "Rainfall": 0,
+    "Evaporation": 1.8,
+    "Sunshine": 2.9
+  },
+  {
+    "MinTemp": -0.9,
+    "MaxTemp": 16.7,
+    "Rainfall": 0,
+    "Evaporation": 2.8,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": 0.2,
+    "MaxTemp": 15.5,
+    "Rainfall": 1,
+    "Evaporation": 2.4,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": -3.7,
+    "MaxTemp": 14.7,
+    "Rainfall": 0,
+    "Evaporation": 3.4,
+    "Sunshine": 10.9
+  },
+  {
+    "MinTemp": -2.7,
+    "MaxTemp": 15.2,
+    "Rainfall": 0,
+    "Evaporation": 4,
+    "Sunshine": 9.7
+  },
+  {
+    "MinTemp": -2.5,
+    "MaxTemp": 16.6,
+    "Rainfall": 0,
+    "Evaporation": 3,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": -0.5,
+    "MaxTemp": 21.6,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 9.9
+  },
+  {
+    "MinTemp": 9,
+    "MaxTemp": 25.5,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 10.2
+  },
+  {
+    "MinTemp": 13.1,
+    "MaxTemp": 19.4,
+    "Rainfall": 9.8,
+    "Evaporation": 8.8,
+    "Sunshine": 6
+  },
+  {
+    "MinTemp": 8.7,
+    "MaxTemp": 19.7,
+    "Rainfall": 1.6,
+    "Evaporation": 5.2,
+    "Sunshine": 8
+  },
+  {
+    "MinTemp": 3.9,
+    "MaxTemp": 13.2,
+    "Rainfall": 3.4,
+    "Evaporation": 6.6,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 0.7,
+    "MaxTemp": 14.1,
+    "Rainfall": 0,
+    "Evaporation": 5.6,
+    "Sunshine": 9
+  },
+  {
+    "MinTemp": 1.1,
+    "MaxTemp": 18,
+    "Rainfall": 0,
+    "Evaporation": 1.6,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": 5.1,
+    "MaxTemp": 23.3,
+    "Rainfall": 0,
+    "Evaporation": 3.6,
+    "Sunshine": 10.3
+  },
+  {
+    "MinTemp": 7.5,
+    "MaxTemp": 23.3,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 10.9
+  },
+  {
+    "MinTemp": 4.7,
+    "MaxTemp": 19.5,
+    "Rainfall": 0,
+    "Evaporation": 10,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 3.2,
+    "MaxTemp": 21.9,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 5.2
+  },
+  {
+    "MinTemp": 7.8,
+    "MaxTemp": 16.2,
+    "Rainfall": 17.4,
+    "Evaporation": 6.4,
+    "Sunshine": 7.9
+  },
+  {
+    "MinTemp": 2.4,
+    "MaxTemp": 17.3,
+    "Rainfall": 0,
+    "Evaporation": 2.2,
+    "Sunshine": 11.3
+  },
+  {
+    "MinTemp": 3.2,
+    "MaxTemp": 18.7,
+    "Rainfall": 0,
+    "Evaporation": 2.6,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 2.5,
+    "MaxTemp": 20.9,
+    "Rainfall": 0,
+    "Evaporation": 3.6,
+    "Sunshine": 10.6
+  },
+  {
+    "MinTemp": 6.5,
+    "MaxTemp": 25.7,
+    "Rainfall": 0,
+    "Evaporation": 4.8,
+    "Sunshine": 10.5
+  },
+  {
+    "MinTemp": 14.4,
+    "MaxTemp": 24.3,
+    "Rainfall": 0,
+    "Evaporation": 9.4,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 4.9,
+    "MaxTemp": 18.9,
+    "Rainfall": 0,
+    "Evaporation": 9.6,
+    "Sunshine": 9.4
+  },
+  {
+    "MinTemp": 2.3,
+    "MaxTemp": 16.8,
+    "Rainfall": 0,
+    "Evaporation": 4.8,
+    "Sunshine": 11.4
+  },
+  {
+    "MinTemp": 1.4,
+    "MaxTemp": 20.6,
+    "Rainfall": 0,
+    "Evaporation": 5.4,
+    "Sunshine": 11.1
+  },
+  {
+    "MinTemp": 5.6,
+    "MaxTemp": 27.6,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 16.8,
+    "MaxTemp": 28.9,
+    "Rainfall": 0,
+    "Evaporation": 10,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 14.4,
+    "MaxTemp": 20.7,
+    "Rainfall": 7.6,
+    "Evaporation": 9.4,
+    "Sunshine": 4.9
+  },
+  {
+    "MinTemp": 10.3,
+    "MaxTemp": 21.3,
+    "Rainfall": 3,
+    "Evaporation": 4.2,
+    "Sunshine": 6.7
+  },
+  {
+    "MinTemp": 11.2,
+    "MaxTemp": 18,
+    "Rainfall": 0,
+    "Evaporation": 4.8,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 0.3,
+    "MaxTemp": 16,
+    "Rainfall": 8.2,
+    "Evaporation": 5.4,
+    "Sunshine": 11.8
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 17.9,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 11.5
+  },
+  {
+    "MinTemp": 0.5,
+    "MaxTemp": 20,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 11.5
+  },
+  {
+    "MinTemp": 4.6,
+    "MaxTemp": 22,
+    "Rainfall": 0,
+    "Evaporation": 4.4,
+    "Sunshine": 11
+  },
+  {
+    "MinTemp": 8.2,
+    "MaxTemp": 22.4,
+    "Rainfall": 0,
+    "Evaporation": 5.4,
+    "Sunshine": 11.2
+  },
+  {
+    "MinTemp": 4.5,
+    "MaxTemp": 23.9,
+    "Rainfall": 0,
+    "Evaporation": 4.8,
+    "Sunshine": 11.7
+  },
+  {
+    "MinTemp": 6.7,
+    "MaxTemp": 26.1,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 7.5
+  },
+  {
+    "MinTemp": 11.9,
+    "MaxTemp": 21.1,
+    "Rainfall": 13.2,
+    "Evaporation": 6.6,
+    "Sunshine": "NA"
+  },
+  {
+    "MinTemp": 9.2,
+    "MaxTemp": 19.6,
+    "Rainfall": 0.6,
+    "Evaporation": 3.4,
+    "Sunshine": 10.4
+  },
+  {
+    "MinTemp": 4.4,
+    "MaxTemp": 21,
+    "Rainfall": 0,
+    "Evaporation": 4.2,
+    "Sunshine": 12.2
+  },
+  {
+    "MinTemp": 5,
+    "MaxTemp": 24.1,
+    "Rainfall": 0,
+    "Evaporation": 6.2,
+    "Sunshine": 12
+  },
+  {
+    "MinTemp": 6.7,
+    "MaxTemp": 24.7,
+    "Rainfall": 0,
+    "Evaporation": 5.4,
+    "Sunshine": 8.6
+  },
+  {
+    "MinTemp": 8.3,
+    "MaxTemp": 28.5,
+    "Rainfall": 0,
+    "Evaporation": 5.8,
+    "Sunshine": 9.8
+  },
+  {
+    "MinTemp": 11.3,
+    "MaxTemp": 27.4,
+    "Rainfall": 0.2,
+    "Evaporation": 7.6,
+    "Sunshine": 12.1
+  },
+  {
+    "MinTemp": 9,
+    "MaxTemp": 20.6,
+    "Rainfall": 0,
+    "Evaporation": 9,
+    "Sunshine": 6.2
+  },
+  {
+    "MinTemp": 3.4,
+    "MaxTemp": 15,
+    "Rainfall": 0.8,
+    "Evaporation": 4.8,
+    "Sunshine": 11.7
+  },
+  {
+    "MinTemp": 3.2,
+    "MaxTemp": 18,
+    "Rainfall": 0,
+    "Evaporation": 7.4,
+    "Sunshine": 12.2
+  },
+  {
+    "MinTemp": 0.9,
+    "MaxTemp": 20.7,
+    "Rainfall": 0,
+    "Evaporation": 5.4,
+    "Sunshine": 8.4
+  },
+  {
+    "MinTemp": 3.3,
+    "MaxTemp": 25.5,
+    "Rainfall": 0,
+    "Evaporation": 5.2,
+    "Sunshine": 10.8
+  },
+  {
+    "MinTemp": 7.9,
+    "MaxTemp": 26.1,
+    "Rainfall": 0,
+    "Evaporation": 6.8,
+    "Sunshine": 3.5
+  },
+  {
+    "MinTemp": 9,
+    "MaxTemp": 30.7,
+    "Rainfall": 0,
+    "Evaporation": 7.6,
+    "Sunshine": 12.1
+  },
+  {
+    "MinTemp": 7.1,
+    "MaxTemp": 28.4,
+    "Rainfall": 0,
+    "Evaporation": 11.6,
+    "Sunshine": 12.7
+  },
+  {
+    "MinTemp": 12.5,
+    "MaxTemp": 19.9,
+    "Rainfall": 0,
+    "Evaporation": 8.4,
+    "Sunshine": 5.3
+  },
+  {
+    "MinTemp": 12.5,
+    "MaxTemp": 26.9,
+    "Rainfall": 0,
+    "Evaporation": 5,
+    "Sunshine": 7.1
+  },
+  {
+    "MinTemp": 12.3,
+    "MaxTemp": 30.2,
+    "Rainfall": 0,
+    "Evaporation": 6,
+    "Sunshine": 12.6
+  }
+]

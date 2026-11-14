@@ -16,7 +16,7 @@ namespace SciFlow::Data
             std::string filePath;
 
             // Method to read the file line-by-line into a vector
-            DataSet read_line();
+            Records read_line();
             
             std::vector<std::string> getColumnHeaders(std::string line);
 
@@ -38,7 +38,7 @@ namespace SciFlow::Data
             explicit NumberFileReader(std::string_view path)
                 :filePath(path){}
             
-            DataSet load() override;       
+            Records load() override;       
     };
 
 }

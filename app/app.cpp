@@ -7,42 +7,67 @@
 #include "StatisticsPlugin.h"
 #include "Configuration.h"
 #include "ConfigManager.h"
+#include "FileReaderFactory.h"
+#include "JsonFileReader.h"
 
 int main()
 {
-
-    //readJson();
+    
     SciFlow::Configuration::ConfigureManager configManager;
-    SciFlow::Configuration::Configuration cong = configManager.getConfig();
+    SciFlow::Configuration::Configuration conf = configManager.getConfig();
 
-    cong.logging.level = "DEBUG";
-    configManager.saveConfig(cong);
-    
-    SciFlow::Data::NumberFileReader fileTxt("../datasets/vector.txt");
-    SciFlow::Plugins::PluginManager pm;
-    pm.loadPlugin("./plugins/libStatisticsPluginLib.so");
+    SciFlow::Plugins::PluginManager pm(conf.pluginDirectory);
+    SciFlow::Data::FileReaderFactory ft;
 
-    for(auto str: pm.availablePlugins())
+    //conf.logging.level = "DEBUG";
+    //configManager.saveConfig(cong);
+
+    for(const auto& pluginCfg: conf.plugins)
     {
-        auto statisticPlugin = pm.getPlugin(str);
-        SciFlow::AnalysisResults::AnalysisResult anaResult = statisticPlugin->execute(fileTxt);
-    
-        if(anaResult.isSuccess())
+        if(!pluginCfg.enabled)
         {
-            for(auto kv: anaResult.getColumnMetrics())
-            {
-                auto[key, val] = kv;
-                std::cout<<key<<"\n";
+            std::cerr << pluginCfg.name << " plugin is not enable" << "\n";
+            continue;
+        }
+            
+        auto plugin = pm.getPlugin(pluginCfg.name);
 
-                for(auto col: val)
+        if(!plugin)
+        {
+            std::cerr << pluginCfg.name << " plugin is not found" << "\n";
+            continue;
+        }
+
+        for(const auto& ds: pluginCfg.inputDatasets )
+        {
+            const auto fileReader = ft.getFileReader(ds.path,ds.type);
+
+            if(!fileReader)
+            {
+                std::cerr << ds.type << " file Ext is not supported" << "\n";
+                continue;
+            }
+            
+            SciFlow::AnalysisResults::AnalysisResult anaResult = plugin->execute(fileReader);
+            
+            if(anaResult.isSuccess())
+            {
+                for(auto kv: anaResult.getColumnMetrics())
                 {
-                    auto [colName, data] = col;
-                    std::cout << colName<<"\t"<<data<<"\n";
+                    auto[key, val] = kv;
+                    std::cout<<key<<"\n";
+
+                    for(auto col: val)
+                    {
+                        auto [colName, data] = col;
+                        std::cout << colName<<"\t"<<data<<"\n";
+                    }
+                    std::cout <<"-----------------\n";
                 }
-                std::cout <<"-----------------\n";
             }
         }
     }
+           
         
     return 0;
 }
