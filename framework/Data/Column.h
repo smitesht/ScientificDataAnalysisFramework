@@ -4,9 +4,9 @@
 
 namespace SciFlow::Data
 {
-    struct Column
+    /*struct Column
     {
         std::string m_Name;
         std::vector<double> m_values;
-    };
+    };*/
 }

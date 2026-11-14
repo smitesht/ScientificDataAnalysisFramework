@@ -1,11 +1,26 @@
 #include "PluginManager.h"
 #include <iostream>
 #include <memory>
+#include <filesystem>
 
 
 namespace SciFlow::Plugins
 {
     
+    PluginManager::PluginManager(const std::string& path)
+        :m_pluginDirPath(path)
+    {
+        std::cout<<"Plugin Dir: "<<m_pluginDirPath <<"\n";
+
+        for(const auto& entry: std::filesystem::directory_iterator(m_pluginDirPath))
+        {
+            if(entry.path().extension() == ".so")
+            {
+                loadPlugin(entry.path().string());
+            }
+        }
+    }
+
     void PluginManager::loadPlugin(const std::string& path)
     {
         auto library = std::make_shared<SharedLibrary>(path);

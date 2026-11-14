@@ -29,14 +29,15 @@ namespace SciFlow::Data
         return cells;
     }
 
-    DataSet NumberFileReader::read_line()
+    Records NumberFileReader::read_line()
     {
-        DataSet dataset;
+        ///DataSet dataset;
+        Records records;
         std::ifstream file(filePath);
 
         if(!file.is_open()){
             std::cerr << "Error: Could not open file " << filePath <<"\n";
-            return dataset;
+            return records;
         }
 
         // read file line by line
@@ -60,15 +61,14 @@ namespace SciFlow::Data
                 colVal.push_back(csvColumnValues[jdx][idx]);
             }
 
-            dataset.addColumn(csvColumnHeaders[idx],colVal);
         }
 
         file.close();
 
-        return dataset;
+        return records;
     }
 
-    DataSet NumberFileReader::load()
+    Records NumberFileReader::load()
     {
         return read_line();
     }

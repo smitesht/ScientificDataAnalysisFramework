@@ -1,5 +1,5 @@
 #pragma once
-#include "DataSet.h"
+#include "Records.h"
 
 namespace SciFlow::Data
 {
@@ -7,6 +7,7 @@ namespace SciFlow::Data
     {
         public:
             virtual ~IDataLoader() = default;
-            virtual DataSet load() = 0;
+            //virtual DataSet load() = 0;
+            virtual Records load() = 0;
     };
 }

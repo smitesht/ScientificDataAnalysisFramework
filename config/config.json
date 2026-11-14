@@ -8,7 +8,16 @@
             "inputDatasets": [
                 {
                     "type": "csv",
-                    "path": "./datasets/sample.csv"
+                    "path": "../datasets/sample.csv"
+                },
+                {
+                    "type": "json",
+                    "path": "../datasets/sample.json"
+                }
+                ,
+                {
+                    "type": "json",
+                    "path": "../datasets/Weather Data.json"
                 }
             ]
         },
@@ -19,11 +28,11 @@
             "inputDatasets": [
                 {
                     "type": "csv",
-                    "path": "./datasets/sample.csv"
+                    "path": "../datasets/sample.csv"
                 },
                 {
                     "type": "json",
-                    "path": "./datasets/sample.json"
+                    "path": "../datasets/sample.json"
                 }
             ]
         }

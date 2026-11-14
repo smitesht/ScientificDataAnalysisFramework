@@ -24,6 +24,8 @@ namespace SciFlow::Plugins
     {
         public:
 
+            explicit PluginManager(const std::string& path);
+
             void loadPlugin(const std::string& path);
 
             std::vector<std::string> availablePlugins();
@@ -32,6 +34,7 @@ namespace SciFlow::Plugins
 
         private:
             std::unordered_map<std::string, PluginInfo> m_registeredPluginList;
+            std::string m_pluginDirPath;
             
     };
 }

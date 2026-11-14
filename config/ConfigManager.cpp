@@ -21,7 +21,7 @@ namespace SciFlow::Configuration
         json config;
         file >> config;
         config.get_to(m_config);
-        //std::cout<<m_config.pluginDirectory<<"\n";
+        
     }
 
     ConfigureManager::ConfigureManager()

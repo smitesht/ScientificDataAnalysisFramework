@@ -1,4 +1,4 @@
-add_library(DataLib STATIC NumberFileReader.cpp)
+add_library(DataLib STATIC CsvFileReader.cpp JsonFileReader.cpp FileReaderFactory.cpp)
 
 target_include_directories(DataLib PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
