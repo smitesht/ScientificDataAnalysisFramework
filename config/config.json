@@ -37,6 +37,7 @@
             ]
         }
     ],
+    "fileExtensions": ["csv","json"],
     "output": {
         "directory": "./output",
         "format": "json"

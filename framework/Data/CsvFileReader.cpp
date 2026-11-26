@@ -1,4 +1,5 @@
 #include "CsvFileReader.h"
+#include "FileException.h"
 
 namespace SciFlow::Data
 {
@@ -80,8 +81,9 @@ namespace SciFlow::Data
         std::ifstream file(filePath);
 
         if(!file.is_open()){
-            std::cerr << "Error: Could not open file " << filePath <<"\n";
-            return records;
+            //std::cerr << "Error: Could not open file " << filePath <<"\n";
+            throw SciFlow::Exception::FileException("SciFlow::Exception::FileException - File not found " + filePath);
+            //return records;
         }
 
         // read file line by line

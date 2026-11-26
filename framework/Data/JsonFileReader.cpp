@@ -1,5 +1,7 @@
 #include "JsonFileReader.h"
 #include <fstream>
+#include "FileException.h"
+#include "ValidationException.h"
 
 namespace SciFlow::Data
 {
@@ -26,7 +28,7 @@ namespace SciFlow::Data
         if(value.is_string())
             return value.get<std::string>();
 
-        throw std::runtime_error("Unsupported JSON value type");
+        throw SciFlow::Exception::ValidationException("Unsupported JSON value type");
     }
 
     Records JsonFileReader::extractJsonTags(const json& data)
@@ -61,8 +63,9 @@ namespace SciFlow::Data
         std::ifstream file(filePath);
         
         if(!file.is_open()){
-            std::cerr << "Error: Could not open file " << filePath <<"\n";
-            return records;
+            throw SciFlow::Exception::FileException("SciFlow::Exception::FileException - File not found " + filePath);
+           // std::cerr << "Error: Could not open file " << filePath <<"\n";
+            //return records;
         }
 
         json document;

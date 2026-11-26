@@ -21,6 +21,9 @@ int main()
 
     //conf.logging.level = "DEBUG";
     //configManager.saveConfig(cong);
+    
+    
+    std::cout<<"\n";
 
     for(const auto& pluginCfg: conf.plugins)
     {
@@ -40,30 +43,38 @@ int main()
 
         for(const auto& ds: pluginCfg.inputDatasets )
         {
-            const auto fileReader = ft.getFileReader(ds.path,ds.type);
+            try
+            {        
+                const auto fileReader = ft.getFileReader(ds.path,ds.type);
 
-            if(!fileReader)
-            {
-                std::cerr << ds.type << " file Ext is not supported" << "\n";
-                continue;
-            }
-            
-            SciFlow::AnalysisResults::AnalysisResult anaResult = plugin->execute(fileReader);
-            
-            if(anaResult.isSuccess())
-            {
-                for(auto kv: anaResult.getColumnMetrics())
+                if(!fileReader)
                 {
-                    auto[key, val] = kv;
-                    std::cout<<key<<"\n";
-
-                    for(auto col: val)
-                    {
-                        auto [colName, data] = col;
-                        std::cout << colName<<"\t"<<data<<"\n";
-                    }
-                    std::cout <<"-----------------\n";
+                    std::cerr << ds.type << " file Ext is not supported" << "\n";
+                    continue;
                 }
+                
+                SciFlow::AnalysisResults::AnalysisResult anaResult = plugin->execute(fileReader);
+                
+                if(anaResult.isSuccess())
+                {
+                    for(auto kv: anaResult.getColumnMetrics())
+                    {
+                        auto[key, val] = kv;
+                        std::cout<<key<<"\n";
+
+                        for(auto col: val)
+                        {
+                            auto [colName, data] = col;
+                            std::cout << colName<<"\t"<<data<<"\n";
+                        }
+                        std::cout <<"-----------------\n";
+                    }
+                }
+
+            }
+            catch(const std::exception& e)
+            {
+                std::cerr << e.what() << '\n';
             }
         }
     }

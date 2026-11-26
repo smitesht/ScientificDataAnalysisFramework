@@ -93,6 +93,7 @@ namespace SciFlow::Configuration
     {
         std::string pluginDirectory;
         std::vector<PluginConfig> plugins;
+        std::vector<std::string> fileExtensions;
         OutputConfig output;
         LoggingConfig logging;
     };
@@ -102,6 +103,7 @@ namespace SciFlow::Configuration
         j = json{ 
                     { Constant::Configuration::pluginDirectory, cfg.pluginDirectory},
                     { Constant::Configuration::plugins, cfg.plugins}, 
+                    { Constant::Configuration::fileExtensions,cfg.fileExtensions},
                     { Constant::Configuration::output, cfg.output}, 
                     { Constant::Configuration::logging, cfg.logging},    
                 };
@@ -111,6 +113,7 @@ namespace SciFlow::Configuration
     {
         j.at(Constant::Configuration::pluginDirectory).get_to(cfg.pluginDirectory);
         j.at(Constant::Configuration::plugins).get_to(cfg.plugins);
+        j.at(Constant::Configuration::fileExtensions).get_to(cfg.fileExtensions);
         j.at(Constant::Configuration::output).get_to(cfg.output);
         j.at(Constant::Configuration::logging).get_to(cfg.logging);
     }
