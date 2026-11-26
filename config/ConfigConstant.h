@@ -32,6 +32,7 @@ namespace SciFlow::Configuration::Constant
     {
         const static std::string pluginDirectory;
         const static std::string plugins;
+        const static std::string fileExtensions;
         const static std::string output;
         const static std::string logging;
     };

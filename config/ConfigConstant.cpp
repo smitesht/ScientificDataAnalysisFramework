@@ -17,6 +17,7 @@ namespace SciFlow::Configuration::Constant
 
     const std::string Configuration::pluginDirectory = "pluginDirectory";
     const std::string Configuration::plugins = "plugins";
+    const std::string Configuration::fileExtensions = "fileExtensions";
     const std::string Configuration::output = "output";
     const std::string Configuration::logging = "logging";
 }

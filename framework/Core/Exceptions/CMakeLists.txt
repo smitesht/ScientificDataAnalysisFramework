@@ -1,0 +1,3 @@
+add_library(SciFlowExceptionLib INTERFACE)
+
+target_include_directories(SciFlowExceptionLib INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})

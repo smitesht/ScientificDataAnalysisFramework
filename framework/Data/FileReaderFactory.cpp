@@ -2,6 +2,7 @@
 #include "NumberFileReader.h"
 #include "CsvFileReader.h"
 #include "JsonFileReader.h"
+#include "FileException.h"
 
 namespace SciFlow::Data
 {
@@ -17,7 +18,8 @@ namespace SciFlow::Data
         }
         else
         {
-            return nullptr;
+            throw SciFlow::Exception::FileException("SciFlow::Exception::FileException - File Extension is not supported " + fileExt);
+           // return nullptr;
         }
     }
     

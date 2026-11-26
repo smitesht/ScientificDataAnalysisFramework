@@ -1,4 +1,5 @@
 add_subdirectory(Interfaces)
+add_subdirectory(Core)
 add_subdirectory(Data)
 add_subdirectory(Math)
 add_subdirectory(PluginManager)
